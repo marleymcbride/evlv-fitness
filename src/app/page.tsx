@@ -128,7 +128,7 @@ export default function HomePage() {
           © {new Date().getFullYear()} EVLV FITNESS LLC (operating as EVLV Fitness). All rights reserved.
         </p>
         <p style={{ margin: "4px 0" }}>
-          Physical Address: 10 The Grn, Dover, Delaware 19901, United States | Contact: <a href="mailto:support@evlv.fitness">support@evlv.fitness</a>
+          Physical Address: 10 The Grn, Dover, Delaware 19901, US | Contact: <a href="mailto:support@evlv.fitness">support@evlv.fitness</a>
         </p>
       </footer>
     </div>
