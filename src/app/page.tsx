@@ -67,8 +67,8 @@ export default function HomePage() {
         </h2>
         <p>
           Delivering online programs and lifestyle health coaching offerings, as seen at:{" "}
-          <a href="https://www.limitless-life.co" target="_blank" rel="noopener noreferrer">
-            https://www.limitless-life.co
+          <a href="https://limitless-life.co" target="_blank" rel="noopener noreferrer">
+            https://limitless-life.co
           </a>
         </p>
         <p>
